@@ -8,3 +8,7 @@
 ![Aaron Swartz](https://raw.githubusercontent.com/ineedahouse/markdownPhoto/main/p2pBasedCos/COS1.png)
 
 上面公式中分子表示两个向量内积，分母表示两个向量的模的乘积
+
+![Aaron Swartz](https://github.com/ineedahouse/markdownPhoto/raw/main/p2pBasedCos/COS2.jpg)
+
+由cos图像可知，当角度越接近于0，cos的值越接近于1，所以我们可以将数据进行向量化，计算数据间的余弦相似度，数据越相似，其cos的值越接近于1。
