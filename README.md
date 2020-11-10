@@ -4,10 +4,17 @@
 ## 原理
 思想就是使用简单的余弦定理来计算数据的余弦相似度，从而进行分类。
 首先介绍下余弦相似度
+### 公式
 
 ![Aaron Swartz](https://raw.githubusercontent.com/ineedahouse/markdownPhoto/main/p2pBasedCos/COS1.png)
 
 上面公式中分子表示两个向量内积，分母表示两个向量的模的乘积
+
+由上式可推导出两向量之间的cos值，公式如下
+
+![Aaron Swartz](https://github.com/ineedahouse/markdownPhoto/raw/main/p2pBasedCos/COS3.png)
+
+### 图像
 
 ![Aaron Swartz](https://github.com/ineedahouse/markdownPhoto/raw/main/p2pBasedCos/COS2.jpg)
 
